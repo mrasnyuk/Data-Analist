@@ -1,2 +1,0 @@
-# Data-Analist
-eqwfqwefqwefqfqfe
