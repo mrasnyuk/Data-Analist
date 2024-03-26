@@ -1,4 +1,4 @@
-# Исследование воронки продаж для интернет-магазина продуктов питаия
+# Исследование воронки продаж для интернет-магазина продуктов питания
 
 [ipynb](https://github.com/mrasnyuk/Practicum-Data-Analist-Portfolio/blob/main/aab_foodstuff/aab_foodstuff.ipynb)
 
