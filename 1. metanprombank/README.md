@@ -1,6 +1,6 @@
 # «Метанпромбанк». Сегментация пользователей по потреблению и анализ оттока клиентов
 
-[ipynb](https://github.com/mrasnyuk/Practicum-Data-Analist-Portfolio/blob/main/metanprombank/metanprombank.ipynb)
+[ipynb](https://github.com/mrasnyuk/Practicum-Data-Analist-Portfolio/blob/main/1.%20metanprombank/metanprombank.ipynb)
 
 
 ## Описание проекта
