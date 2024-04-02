@@ -1,6 +1,6 @@
 # Анализ рынка заведений общественного питания Москвы
 
-[ipynb](https://github.com/mrasnyuk/Practicum-Data-Analist-Portfolio/blob/main/public_food/public_food.ipynb)
+[ipynb](https://github.com/mrasnyuk/Practicum-Data-Analist-Portfolio/blob/main/4.%20public_food/public_food.ipynb)
 
 
 ## Описание проекта
